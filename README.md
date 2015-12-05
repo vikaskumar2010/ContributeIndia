@@ -47,7 +47,8 @@ Basic contibution type
 5. Search user by name/email/contributer_type/location etc
 6. Connect to a person
 7. Liking the event (like count)
-8. 
+ 
+
 #####1.Register/Login page
 Register page will require all the information like talent/profile of the person.
 Mandatory information will be email of the person. We will be integrating the authentication of user from google/facebook/twitter using OAuth2.
