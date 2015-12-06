@@ -1,6 +1,8 @@
 #CONTRIBUTE INDIA 
 
 An idea to make better india and help needy.
+Our idea is to help poor not financially (if you want you can) but by sharing your knoledge, talent or any other way.
+
 
 ###Basic points to start:
 1. Register contributer.
