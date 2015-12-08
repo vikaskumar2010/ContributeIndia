@@ -1,5 +1,7 @@
 
-#REST APIs: This document will contain all the information for an API like url, request method (GET/POST/PUT etc), request and response.
+#REST APIs: 
+
+This document will contain all the information for an API like url, request method (GET/POST/PUT etc), request and response.
 
 1)Register
 
