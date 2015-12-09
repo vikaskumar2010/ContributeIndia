@@ -1,6 +1,8 @@
 #CONTRIBUTE INDIA 
 
 An idea to make better india and help needy.
+Our idea is to help poor not financially (if you want you can) but by sharing your knoledge, talent or any other way.
+
 
 ###Basic points to start:
 1. Register contributer.
@@ -57,4 +59,4 @@ Mandatory information will be email of the person. We will be integrating the au
 
 
 ##How you can contribute to make it happen?
-Anyone contribute in the project as any aspect like idea, android app, webapp. Please mail your idea to vikaskumar2010@gmail.com.
+Anyone can contribute in the project as any aspect like idea, android app, ios app, new features etc. Please mail your idea to vikaskumar2010@gmail.com.
