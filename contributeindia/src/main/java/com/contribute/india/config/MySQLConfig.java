@@ -10,10 +10,10 @@ import org.springframework.context.annotation.PropertySources;
 import org.springframework.core.env.Environment;
 
 
-@Configuration
-@PropertySources({
-    @PropertySource(value = {"file:${CONF_DIR}/application.properties"}),
-})
+//@Configuration
+//@PropertySources({
+//    @PropertySource(value = {"file:${CONF_DIR}/application.properties"}),
+//})
 
 public class MySQLConfig {
 	@Resource
