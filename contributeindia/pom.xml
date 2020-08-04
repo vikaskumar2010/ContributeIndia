@@ -35,6 +35,10 @@
   </dependencies>  
   <build>
     <plugins>
+      <plugin> 
+        <groupId>org.springframework.boot</groupId>  
+        <artifactId>spring-boot-maven-plugin</artifactId> 
+      </plugin>  
       <plugin>
         <groupId>com.microsoft.azure</groupId>
         <artifactId>azure-webapp-maven-plugin</artifactId>
@@ -62,7 +66,6 @@
             <resources>
               <resource>
                 <directory>${project.basedir}/target</directory>
-				<targetPath>/</targetPath> 
                 <includes>
                   <include>*.jar</include>
                 </includes>
